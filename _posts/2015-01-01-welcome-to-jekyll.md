@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
-categories: jekyll
+title: 欢迎来到Yihoo的个人小站!
+subtitle: 专注资源与信息分享.
+author: Yihoo
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
