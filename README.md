@@ -1,6 +1,6 @@
 <div align="right">
 
-[**中文简体**](READ_cn.me)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**English**](README.md)
+[**中文简体**](README_cn.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**English**](README.md)
 
 </div>
 
