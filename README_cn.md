@@ -1,3 +1,9 @@
+<div align="right">
+
+  [**中文简体**](README_cn.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**English**](README.md)
+
+</div>
+
 <div align="center">
   <br>
 
